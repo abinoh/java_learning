@@ -4,5 +4,8 @@
 public class hellop {
     public static void main(String[] args){
         System.out.println("Hello Peppal");
+        int namek=10;
+        System.out.print(namek);
+
     }
 }
