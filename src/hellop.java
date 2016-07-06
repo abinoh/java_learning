@@ -6,6 +6,8 @@ public class hellop {
         System.out.println("Hello Peppal");
         int namek=10;
         System.out.print(namek);
-
+        byte zero=0;
+        short small=100;
+        long big=100000;
     }
 }
