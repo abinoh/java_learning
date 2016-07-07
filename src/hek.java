@@ -3,7 +3,10 @@
  */
 public class hek {
     public static void main(String[] ken) {
-        String name="Abin";
-        System.out.println("My name is "+name);
+        int num=10;
+        String no="7";
+//        int number=0;
+        no=no+num;
+        System.out.println("My name is "+no);
     }
 }
