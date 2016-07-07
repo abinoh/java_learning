@@ -4,6 +4,6 @@
 public class hek {
     public static void main(String[] ken) {
         String name="Abin";
-        System.out.println(name);
+        System.out.println("My name is "+name);
     }
 }
